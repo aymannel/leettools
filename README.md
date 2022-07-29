@@ -1,4 +1,4 @@
-# Leettools
+# Leettools - An Ultra Light-Weight VIM-Based IDE
 
 ![projectimage](img/leet.png)
 
