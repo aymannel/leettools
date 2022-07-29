@@ -3,7 +3,7 @@
 ![projectimage](img/leet.png)
 
 ## DESCRIPTION
-Leettools is a collection of scripts and vim configurations for setting up an ultra-light vim-based IDE. I use this mainly for solving leetcode.com problems in a local environment such that I have access to all custom keybindings and VIM configurations.
+Leettools is a collection of scripts and vim configurations for setting up an ultra-light vim-based IDE. I use this mainly for solving leetcode.com problems in a local environment so that I have access to all my custom keybindings and VIM configurations.
 
 ## USAGE
 Typing the `leet` command into your terminal will create a copy of the leet environment template and open MacVim. The `timeit` function from the leettools library is imported, and can be used as a decorator to time a given function.
@@ -25,7 +25,7 @@ function ran 519 times | mean time = 1.5665e-06 s | min time = 7.15255737e-07 s
 * MacVim (installed via brew)
 * Vundle: davidhalter/jedi-vim
 * Conda for virtual environment
-* `leettools.py` package (simply download copy of file from this repo)
+* `leettools.py` (simply download copy of file from this repo)
 
 ## INSTALLATION
 * Some working version of Python
