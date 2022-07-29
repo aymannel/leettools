@@ -16,7 +16,7 @@ def function(nums):
 	return f'{num} is a cool number!'
 ```
 
-Will run the function as many times as possible in `0.001` seconds and return mean runtime and minimum runtime.
+Pressing **⌘ + '** will run the function as many times as possible in `0.001` seconds and return mean runtime and minimum runtime.
 ```bash
 function ran 519 times | mean time = 1.5665e-06 s | min time = 7.15255737e-07 s
 ```
