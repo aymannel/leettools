@@ -25,6 +25,7 @@ function ran 519 times | mean time = 1.5665e-06 s | min time = 7.15255737e-07 s
 * MacVim (installed via brew)
 * Vundle: davidhalter/jedi-vim
 * Conda for virtual environment
+* `leettools.py` package (simply download copy of file from this repo)
 
 ## INSTALLATION
 * Some working version of Python
