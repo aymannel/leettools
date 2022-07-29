@@ -1,6 +1,8 @@
 # Leettools
 
+![projectimage](img/leet.png)
+
 ### DESCRIPTION
-A collection of scripts and vim configurations for setting up an ultra-light vim-based IDE.
+Leettools is a collection of scripts and vim configurations for setting up an ultra-light vim-based IDE.
 
 ##### 
