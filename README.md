@@ -6,7 +6,7 @@
 Leettools is a collection of scripts and vim configurations for setting up an ultra-light vim-based IDE. I use this mainly for solving leetcode.com problems in a local environment so that I have access to all my custom keybindings and VIM configurations.
 
 ## USAGE
-Typing the `leet` command into your terminal will create a copy of the leet environment template and open MacVim. The `timeit` function from the leettools library is imported, and can be used as a decorator to time a given function.
+Typing the `leet` command into your terminal will create a copy of the leet environment template and open MacVim with a terminal mode buffer. The `timeit` function from the leettools library is imported, and can be used as a decorator to time a given function.
 
 ```python
 @timeit
